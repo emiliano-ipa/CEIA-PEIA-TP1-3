@@ -1,0 +1,12 @@
+# Ignorar entorno virtual
+CEIA-UBA-PEIA/
+
+# Ignorar archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de VS Code
+.vscode/
