@@ -33,6 +33,13 @@ Se calculan los siguientes valores para cada año:
 - **Función de densidad (KDE)**: muestra la distribución estimada de las ventas diarias.
 - **Función empírica de distribución (ECDF)**: representa la acumulación de probabilidad.
 
+### 📈 Gráficos comparativos
+#### Funciones Empíricas de Distribución (ECDF) por año:
+![ECDF Comparado](data/ECDF_comparado.png)
+
+#### Funciones de Densidad Estimada (KDE) por año:
+![KDE Comparado](data/KDE_comparado.png)
+
 ---
 
 ## 📌 Conclusiones
